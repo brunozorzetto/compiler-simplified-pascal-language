@@ -1,0 +1,14 @@
+program exemplo;
+var x,a:integer;
+
+procedure proc(  var a1 :  integer )   ;
+var a:integer;
+begin
+	a:=1;
+end;
+begin
+x:=1+1;
+write(x);
+if (x>a) then
+a:=x;
+end.
