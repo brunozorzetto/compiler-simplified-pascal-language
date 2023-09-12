@@ -1,1 +1,2 @@
-# analisador de uma linguagem Pascal simplificado.
+# Compiler of a simplified Pascal language
+# (compilador de uma linguagem Pascal simplificado)
